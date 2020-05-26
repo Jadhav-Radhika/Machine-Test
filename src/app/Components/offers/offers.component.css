@@ -1,0 +1,16 @@
+
+h2 {margin:2rem 0;}
+.container {
+    position: relative;
+  }
+  
+  
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    transform: translate(-50%, -45%);
+  }
+  .myimage{width:92%; height: 200px;border-radius: 10px;}
+  .para{color:white;font-size: 20px;font-weight: bold;}
+  button{padding: 10px 25px;background-color: #9180f0;border-radius: 2px;color:#fff;margin-left: 20px;}
